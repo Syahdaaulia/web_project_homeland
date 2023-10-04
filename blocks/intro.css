@@ -1,0 +1,59 @@
+.intro {
+    width: 100vw;
+    height: 542px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0;
+}
+
+.intro__title {
+    width: 883px;
+    height: 116px;
+    font-family: 'Inter';
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    margin: 0 auto 40px;
+}
+.intro__paragraph {
+    width: 758px;
+    height: 170px;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.intro__author {
+    width: 720px;
+    height: 34px;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.intro__description {
+    width: 720px;
+    height: 2018px;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    margin: 8px 0 0;
+}
