@@ -1,11 +1,6 @@
 .intro {
-    width: 100vw;
     height: 542px;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items: center;
-    margin: 0;
+    margin: 92px 148px 66px 249px;
 }
 
 .intro__title {
@@ -16,10 +11,9 @@
     font-weight: 900;
     line-height: 58px;
     letter-spacing: 0em;
-    text-align: left;
     color: #FFFFFF;
-    margin: 0 auto 40px;
 }
+
 .intro__paragraph {
     width: 758px;
     height: 170px;
