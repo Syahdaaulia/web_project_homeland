@@ -1,5 +1,5 @@
 .photo-grid {
-    height: 442px;
+    height: auto;
     display: grid;
     margin: 0px 48px 92px;
     grid-template-columns: repeat(4, auto);
@@ -12,3 +12,20 @@
     width: 284px;
     height: 213px;
 }
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+    .photo-grid {
+      grid-template-columns: repeat(2, auto);
+    }
+  
+    .photo-grid__image {
+      width: 100%;
+    }
+  }
+  
+  @media screen and (min-width: 320px) and (max-width: 767px) {
+    .photo-grid {
+      margin: 0 16px;
+      grid-template-columns: 1fr;
+    }
+  }
