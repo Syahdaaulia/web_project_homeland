@@ -1,4 +1,5 @@
 .lead {
+    width: 100vw;
     padding-top: 90px;
     display: flex;
     flex-direction: column;
@@ -7,12 +8,12 @@
 }
 
 .lead__title {
-    width: 793px;
-    height: 200px;
+    width: 100vw;
+    height: auto;
     font-family: 'Inter';
     font-size: 96px;
     font-weight: 900;
-    line-height: 100px;
+    line-height: 1;
     letter-spacing: 0em;
     text-align: center;
     color: #ffffff;
@@ -20,7 +21,7 @@
 }
 
 .lead__subtitle {
-    width: 720px;
+    width: 100vw;
     height: 72px;
     font-family: 'Inter';
     font-size: 30px;
@@ -39,20 +40,16 @@
 
 @media screen and (max-width: 320px) {
   .lead {
-    width: 99vw;
     padding-top: 50px;
     align-items: flex-start;
   }
   .lead__title {
-    width: 99vw;
-    height: 176px;
-    font-size: 48px;
+    font-size: 40px;
     line-height: 1.0;
   }
 
   .lead__subtitle {
     font-size: 16px;
-    width: 99vw;
     margin: 0;
   }
 
@@ -62,19 +59,13 @@
   }
  }
 
- @media screen and (min-width: 321px) and (max-width: 768px) {
-  .lead {
-    width: 750px;
-      }
-      .lead__image {
-        height: 480px;
-        width: 768px;
-      } 
-    }
+ @media screen and (max-width: 768px) {
+  .lead__image {
+    height: 480px;
+    width: 768px;
+   }
 
-@media screen and (min-width: 769px) and (max-width: 1280px) {
-    .lead {
-      width: 78.5%;
-    }
+  .lead__title {
+    font-size: 48px;
   }
-  
+    }

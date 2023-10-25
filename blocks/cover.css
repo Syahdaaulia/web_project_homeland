@@ -66,6 +66,17 @@
     background: #0063d2;
   }
 
+  .cover__button-paragraph {
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
   @media screen and (max-width: 320px) {
     .cover {
       background-size: contain;
