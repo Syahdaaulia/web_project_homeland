@@ -104,7 +104,7 @@
 
   @media screen and (max-width: 660px){
     .place {
-      width: 100vw;
+      width: 98.7vw;
       margin-bottom: 40px;
     }
 
@@ -132,11 +132,11 @@
     }
 
     .place__image-container {
-      width: 100vw;
+      width: 98.5;
     }
 
     .place__image {
-      width: 99vw;
+      width: 95vw;
       height: auto;
       margin: 0;
     }
@@ -148,12 +148,12 @@
     .place__paragraph {
       box-sizing: border-box;
       padding: 0 16px;
-      width: 100vw;
+      width: 95vw;
       margin: 0 auto 16px auto;
     }
 
     .place__button {
-      width: 100vw;
+      width: 95vw;
       padding: 13px 12px;
       margin: 0;
     }
@@ -161,12 +161,11 @@
 
   @media screen and (min-width: 661px) and (max-width: 1080px) {
     .place{
-      width: 95%;
+      width: 95vw;
       margin: 16px;
     }
 
     .place__title {
-      font-size: 100vw;
       line-height: 109.524%;
       width: 50vw;
     }

@@ -1,5 +1,5 @@
 .intro {
-    width: 100vw;
+    width: 98.5vw;
     height: auto;
     margin: 92px 0 66px;
     display: flex;
@@ -80,17 +80,17 @@
    }
   
   
-   @media screen and (max-width: 768px) {
+   @media screen and (min-width: 321px) and (max-width: 768px) {
     .intro {
         margin: 20px 0;
     }
 
     .intro__container {
-    width: 100vw;
+    width: 98.7vw;
     }
 
     .intro__title, .intro__paragraph, .intro__author, .intro__description {
-        width: 100vw;
+        width: 98.7vw;
     }
 }
 
