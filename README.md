@@ -1,4 +1,4 @@
-# [Tripleten web_project_homeland] (https://github.com/Syahdaaulia/web_project_homeland.git)
+# [Tripleten web_project_homeland](https://github.com/Syahdaaulia/web_project_homeland.git)
 ## Project 4: Dari tanah air ke tanah air
 
 ### Pengantar
@@ -10,6 +10,6 @@ Project ini yang menampilkan keindahan serta keunikan di setiap tanah air menuru
 * Web Responsive
 * Metology BEM
 
-### [Tautkan Project ke Figma] (https://www.figma.com/file/t48BkKKEhP7K0mP5Vmr26O/Web_Brief_Sprint_4_ID-%7C-Dari-Tanah-Air-ke-Tanah-Air-%7C-desktop-%2B-mobile?type=design&node-id=0-1&mode=design&t=NQMOk1ze6uMEqOlA-0)
+### [Tautkan Project ke Figma](https://www.figma.com/file/t48BkKKEhP7K0mP5Vmr26O/Web_Brief_Sprint_4_ID-%7C-Dari-Tanah-Air-ke-Tanah-Air-%7C-desktop-%2B-mobile?type=design&node-id=0-1&mode=design&t=NQMOk1ze6uMEqOlA-0)
 
-### [Github Pages] (https://github.com/syahdaaulia)
+### [Github Pages](https://syahdaaulia.github.io/web_project_homeland/)
